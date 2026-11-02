@@ -1,0 +1,10 @@
+name = "CoulombHardness"
+version = "0.1.0"
+defaultTargets = ["CoulombHardness"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+
+[[lean_lib]]
+name = "CoulombHardness"
